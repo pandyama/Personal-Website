@@ -1,0 +1,32 @@
+@media only screen and (max-width: 620px){
+    .about, .about2{
+        width: 100%;
+    }
+}
+
+.about {
+    width: 600px;
+    height: 200px;
+    float: left;
+}
+
+.about2{
+    width: 600px;
+    height: 200px;
+    float: left;
+    margin-left: 110px;
+}
+
+.main {
+    float:left;
+    padding:15px;
+    margin-top:7px;
+    margin-right: 10px;
+    background-color: white;
+  }
+  .right {
+    background-color:white;
+    float:left;
+    padding:15px;
+    margin-top:7px;
+}
